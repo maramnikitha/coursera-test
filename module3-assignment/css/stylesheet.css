@@ -92,8 +92,7 @@ div > h2 {
 	}
 	#collapsable-nav {
 		background-color: #B0C4DE;
-		border: 1px solid black;
-		margin-top: 10px;
+		border-top: 1px solid white;
 	}
 	#Chicken, #Beef, #Sushi  {
 	
